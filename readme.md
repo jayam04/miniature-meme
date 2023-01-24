@@ -1,0 +1,1 @@
+note: use obsidian to view files!!
